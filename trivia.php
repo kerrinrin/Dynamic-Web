@@ -17,6 +17,13 @@
     h1 {
      text-align: center;   
     }
+    
+    section {
+     
+        padding: 10px;
+        margin: 10px 0;
+        
+    }
     </style>
     
     
